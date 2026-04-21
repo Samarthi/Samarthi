@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Samarthi Lahiri.</h1>
 <h3 align="center">I am an AI Engineer @ Solutionec by day and a student of computer graphics and game engines the rest of the time.</h3>
 
-- 🔭 I’m currently working on my **Game Engine** after having built a working prototype of my CPU ray tracer and a strong mental model of 3D math and GPU pipelines. 
+- 🔭 I’m currently working on my **Game Engine** after having built a working prototype of my CPU ray tracer and a strong mental model of GPU rendering pipelines. 
 
 - 🌱 I’m currently learning **OpenGL and systems programming**
 
