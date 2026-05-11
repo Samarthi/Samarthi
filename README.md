@@ -9,5 +9,5 @@
 
 - 💬 Ask me about **Game Engines, Deep Learning or Databases**. I am equally interested in all of these and have a tough time choosing between the three.
 
-- 📫 Reach me @ **[first name].[last]@gmail.com**
+- 📫 Reach me @ [first name].[last_name]@gmail.com
 
